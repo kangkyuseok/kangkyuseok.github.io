@@ -17,7 +17,6 @@
 
 ## **사용언어**
 # FrontEnd
-- Spring Boot
 - JQuery
 - BootStrap
 - AJAX
@@ -28,8 +27,8 @@
 - JSP
 # BackEnd
 - Spring Boot
+- Tomcat
 - Java
 # DataBase
 - oracle
 - Dbeaver
-
