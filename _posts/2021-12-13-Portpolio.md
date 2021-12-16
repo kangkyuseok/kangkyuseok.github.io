@@ -18,7 +18,6 @@
 ## **사용언어**
 # FrontEnd
 - JQuery
-- BootStrap
 - AJAX
 - JSON
 - CSS
